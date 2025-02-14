@@ -46,7 +46,6 @@ const Love = () => {
           </FloatingHearts>
         </div>
       )}
-      <Hero />
     </div>
   );
 };
